@@ -15,5 +15,4 @@ https://github.com/xuanling-123/Bike-Sales/assets/147902495/4f9b62d7-2cfc-4d07-a
 2. Open the Excel file: Open the Excel file using Microsoft Excel or any compatible spreadsheet software.
 3. Explore the Dashboard: Navigate through the different sheets and charts to gain insights into the bike sales data.
 
-## Credits
-This project is inspired by this YouTube tutorial: https://www.youtube.com/watch?v=opJgMj1IUrc&t=21s
+
